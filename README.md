@@ -1,4 +1,4 @@
-# Early Epidemic Detection
+# Early-Epidemic-Detection
 Early epidemic detection or surveillance system consists of a well-found database from which to draw data and to which to write the inference and relations for the analysis to happen.
 Using CDA or Case Detection Algorithms, using a critical number for the hard boundary for any disease frequency counter. 
 For Example, If influenza records 110 cases in a week, and the critical value for that remains at 100 then that particular region is at the start of an epidemic which doesn't fit good. For that purpose, the hard boundary is considered off with a flexibility factor which determines the condition for a hard boundary.
