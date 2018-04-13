@@ -1,8 +1,3 @@
-# Rajashthan_Hackathon 
-- /Data Contains the primary datasource for the inference Engine
-- /hackathon contains the graph database
-- /code contains the codebase
-
 ## Early Epidemic Detection
 Early epidemic detection or surveillance system consists of a well-found database from which to draw data and to which to write the inference and relations for the analysis to happen.
 Using CDA or Case Detection Algorithms, using a critical number for the hard boundary for any disease frequency counter. 
